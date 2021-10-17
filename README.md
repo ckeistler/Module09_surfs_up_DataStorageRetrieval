@@ -21,7 +21,7 @@ The premise of module 9 was based on weather analysis for a surf shop/ice cream 
 ## Summary
 ![Summary](https://user-images.githubusercontent.com/88443672/137643163-8c27c4d5-86be-4385-9060-d122e331e3e5.png)
   * June's average temperature is ~3.9 degrees warmer than December's
-  * December Precip/Day averaged 0.2001 vs June's .1263
+  * December Precip/Day averaged 0.2001 vs June's 0.1263
   * Dec days with rain = 88/1517, or 5.8%
   * June days with rain = 39/1700, or 2.3%
 
