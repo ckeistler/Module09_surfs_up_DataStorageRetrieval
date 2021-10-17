@@ -1,7 +1,7 @@
 # SURF'S UP ANALYSIS (Module 9)
 
-## Overview of Analysis
-
+## Overview
+The premise of module 9 was based on weather analysis for a surf shop/ice cream shop in Oahu.  The challenge led us in with the following, "W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round."  We used Python, Pandas, SQLAlchemy, and Numpy to extract the needed data for analysis as below. 
 
 ## Results
 ![June_Data](https://user-images.githubusercontent.com/88443672/137642736-86d4b62b-ffe3-4865-8739-603bedc13c47.png)
